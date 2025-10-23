@@ -13,10 +13,10 @@ export default function Hero() {
             </h1>
             <div className="h-1 w-24 bg-gradient-to-r from-blue-500 to-cyan-500 mx-auto mb-6"></div>
             <p className="text-2xl md:text-3xl text-cyan-400 mb-4 font-light">
-              Software Engineer
+              Senior Software Engineer @ Uber
             </p>
             <p className="text-lg md:text-xl text-slate-300 mb-8 max-w-2xl mx-auto">
-              Building scalable solutions across FinTech, Telehealth, AI & Blockchain Systems
+              8+ years building scalable web platforms across FinTech and AI
             </p>
           </div>
 

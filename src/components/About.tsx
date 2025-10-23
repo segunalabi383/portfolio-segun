@@ -27,7 +27,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-bold text-slate-900 mb-3">Industry Experience</h3>
               <p className="text-slate-600 leading-relaxed">
-                15+ years building production systems for FinTech, Healthcare, AI, and Blockchain across startups and enterprises.
+                8+ years building production systems for FinTech, AI, and scalable platforms at companies like Uber and Scribe.
               </p>
             </div>
 
@@ -44,24 +44,24 @@ export default function About() {
 
           <div className="prose prose-lg max-w-none text-slate-600 leading-relaxed space-y-4">
             <p>
-              I'm a <strong>Software Engineer</strong> who enjoys building products that connect technology with real-world needs.
-              Over the years, I've worked across <strong>FinTech</strong>, <strong>Telehealth</strong>, <strong>AI-driven eCommerce</strong>,
-              and <strong>Blockchain</strong>, helping teams launch scalable platforms that are fast, secure, and user-friendly.
+              I'm a <strong>Senior Software Engineer</strong> with 8+ years of experience building scalable web platforms across
+              <strong> FinTech</strong> and <strong>AI</strong>. At <strong>Uber</strong>, I work on backend systems using Python,
+              Django, and FastAPI, while integrating LLMs to improve workflows. I also develop frontend features with React and
+              Next.js, focusing on clean design and usability.
             </p>
             <p>
-              In <strong>healthcare</strong>, I've built HIPAA-compliant telemedicine solutions supporting virtual consultations,
-              scheduling, and medical record management — with a strong focus on privacy and data protection.
+              I've built highly scalable backend services from scratch for Uber financial platforms using Python, Django, FastAPI,
+              and GraphQL. I utilize Apache Kafka for event-driven architecture and integrate various data sources including
+              PostgreSQL and MongoDB.
             </p>
             <p>
-              In <strong>FinTech</strong>, I've designed and implemented automated decision systems, payment integrations,
-              and internal dashboards that replace manual workflows with scalable, reliable architecture.
+              I enjoy collaborating with cross-functional teams and mentoring developers to ship reliable, user-friendly software.
+              I take initiative on various projects within cross-functional team environments, working closely with AI/ML scientists.
             </p>
             <p>
-              I've also contributed to <strong>AI and blockchain</strong> projects — from smart contract workflows to personalized
-              product recommendation engines — blending solid backend logic with high-performance front-end experiences.
-            </p>
-            <p>
-              Clients describe me as a reliable engineer who communicates clearly, takes ownership, and delivers code that lasts.
+              My experience spans full-stack development with modern technologies, implementing CI/CD pipelines using Docker,
+              Kubernetes, Terraform, and Jenkins on AWS. I develop and execute robust test suites using Jest, Cypress, Pytest,
+              and Selenium.
             </p>
           </div>
         </div>

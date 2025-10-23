@@ -2,38 +2,41 @@ import { Briefcase, MapPin, Calendar } from 'lucide-react';
 
 const experiences = [
   {
-    title: 'Full-Stack Engineer (Contract)',
-    company: 'YesPlz AI',
-    location: 'Silicon Valley, CA',
-    period: 'Mar 2019 – Jun 2025',
+    title: 'Senior Software Engineer',
+    company: 'Uber',
+    location: 'New York, United States',
+    period: 'September 2022 – Present',
     description: [
-      'Designed and deployed an AI-powered eCommerce platform MVP',
-      'Integrated product recommendation APIs and analytics with Node.js and React',
-      'Delivered tailored web and UI assets for brand consistency'
+      'Developed and maintained AI/ML-driven backend infrastructure in Python, Node.js/Express.js with LLM',
+      'Built highly scalable backend services from scratch for Uber financial platforms in Python, Django, FastAPI, GraphQL',
+      'Utilized Apache Kafka for event-driven architecture, integrated various data sources including PostgreSQL, MongoDB',
+      'Took initiative of various projects, within a cross-functional team environment, working with AI/ML scientists',
+      'Developed and executed robust test suites for web applications using Jest, Cypress, Pytest, Selenium',
+      'Implemented CI/CD pipelines, utilizing Docker, Kubernetes, Terraform, Jenkins, AWS with DevOps team'
     ],
-    color: 'from-purple-500 to-pink-500'
+    color: 'from-slate-700 to-slate-900'
   },
   {
-    title: 'Software Engineer',
-    company: 'MDHealthTrak',
-    location: 'Newark, NJ',
-    period: 'Aug 2014 – Feb 2019',
+    title: 'Senior Full Stack Engineer',
+    company: 'Scribe',
+    location: 'California, United States',
+    period: 'March 2019 – June 2022',
     description: [
-      'Built a HIPAA-compliant telehealth platform for remote consultations',
-      'Developed Django REST + React modules, AWS integrations, and secure file storage',
-      'Improved performance through Celery/Redis async processing'
+      'Led full-stack development at Scribe, focusing on scalable software solutions and user experience enhancement',
+      'Developed front-end features with React, Next.js, and Tailwind, improving usability and interface design',
+      'Collaborated with cross-functional teams to deliver high-quality software supporting Scribe\'s documentation tools'
     ],
     color: 'from-blue-500 to-cyan-500'
   },
   {
-    title: 'Lead Full-Stack Developer',
-    company: 'Collabera, Inc',
-    location: 'New Jersey, USA',
-    period: 'Oct 2008 – Jul 2014',
+    title: 'Back End Developer',
+    company: 'Cognizant',
+    location: 'New Jersey, United States',
+    period: 'June 2015 – February 2019',
     description: [
-      'Led the re-architecture of a FinTech SaaS platform',
-      'Developed scalable Node.js microservices and automated decision logic',
-      'Deployed and maintained AWS EC2, RDS, and Docker environments'
+      'Developed and maintained backend microservices in Node.js for a high-performance indie movie platform',
+      'Implemented AWS S3 for video storage and configured Amazon CloudFront CDN to deliver MP4 files with low latency and smooth playback',
+      'Automated CI/CD pipelines using AWS CodePipeline and Elastic Beanstalk for seamless deployment'
     ],
     color: 'from-green-500 to-emerald-500'
   }
