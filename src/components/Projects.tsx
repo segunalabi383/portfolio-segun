@@ -11,12 +11,12 @@ const projects = [
     tags: ['React', 'Node.js', 'AI', 'AWS', 'REST API']
   },
   {
-    title: 'MDHealthTrak',
-    url: 'https://www.mdhealthtrak.com/',
-    description: 'HIPAA-compliant telemedicine platform enabling secure patient-doctor interactions. Built with Django REST APIs, AWS S3 + Lambda, and real-time async processing.',
+    title: 'Kyruus',
+    url: 'https://kyruushealth.com/',
+    description: 'Kyruus is a healthcare provider data management platform that optimizes the process of matching patients with providers in the US.',
     icon: Heart,
     gradient: 'from-blue-500 to-cyan-500',
-    image: 'https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: 'https://eh6327rse7k.exactdn.com/wp-content/uploads/2023/12/Medical-Groups@3x-768x447.png?strip=all&lossy=1&ssl=1',
     tags: ['Django', 'React', 'AWS', 'Celery', 'PostgreSQL']
   },
   {
