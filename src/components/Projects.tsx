@@ -17,7 +17,7 @@ const projects = [
     icon: Heart,
     gradient: 'from-blue-500 to-cyan-500',
     image: 'https://eh6327rse7k.exactdn.com/wp-content/uploads/2023/12/Medical-Groups@3x-768x447.png?strip=all&lossy=1&ssl=1',
-    tags: ['Django', 'React', 'AWS', 'Celery', 'PostgreSQL']
+    tags: ['Django', 'Ruby on Rails', 'React', 'AWS', 'Celery', 'PostgreSQL']
   },
   {
     title: 'Automatic USA',
