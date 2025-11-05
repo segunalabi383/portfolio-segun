@@ -40,8 +40,8 @@ export default function Contact() {
                   <Phone size={24} />
                 </div>
                 <div>
-                  <div className="text-slate-400 text-sm mb-1">WhatsApp</div>
-                  <div className="font-semibold">+1 (862) 233-5614</div>
+                  <div className="text-slate-400 text-sm mb-1">Call</div>
+                  <div className="font-semibold">+1 (619) 738-6448</div>
                 </div>
               </div>
             </a>
@@ -94,15 +94,6 @@ export default function Contact() {
                 <span className="font-semibold">LinkedIn</span>
               </a>
 
-              <a
-                href="https://www.upwork.com/freelancers/~01e2622ffa59e49740"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-center gap-3 px-6 py-4 bg-green-600 hover:bg-green-700 rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-lg"
-              >
-                <Briefcase size={24} />
-                <span className="font-semibold">Upwork</span>
-              </a>
             </div>
           </div>
         </div>
