@@ -30,7 +30,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="https://wa.me/18622335614"
+              href="https://wa.me/16197386448"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-slate-800 hover:bg-slate-700 p-6 rounded-2xl transition-all duration-300 hover:-translate-y-2 hover:shadow-xl hover:shadow-green-500/20 group"
