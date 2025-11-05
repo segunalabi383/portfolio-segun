@@ -39,14 +39,6 @@ export default function Hero() {
               <Linkedin size={20} />
               LinkedIn
             </a>
-            <a
-              href="https://www.upwork.com/freelancers/~01e2622ffa59e49740"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-2 px-6 py-3 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-green-500/20"
-            >
-              Upwork
-            </a>
           </div>
 
           <div className="flex flex-wrap justify-center gap-6 text-slate-300 animate-fade-in-up animation-delay-400">
