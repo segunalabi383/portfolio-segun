@@ -46,7 +46,7 @@ export default function Hero() {
               <Mail size={18} />
               segunalabi383@gmail.com
             </a>
-            <a href="https://wa.me/18622335614" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
+            <a href="https://wa.me/16197386448" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <Phone size={18} />
               +1 (619) 738-6448
             </a>
