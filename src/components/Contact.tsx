@@ -41,7 +41,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-slate-400 text-sm mb-1">Call</div>
-                  <div className="font-semibold">+1 (619) 738-6448</div>
+                  <div className="font-semibold">+1 (917) 695-2242</div>
                 </div>
               </div>
             </a>
