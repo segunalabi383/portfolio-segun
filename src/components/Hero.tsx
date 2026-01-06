@@ -48,7 +48,7 @@ export default function Hero() {
             </a>
             <a href="https://wa.me/16197386448" className="flex items-center gap-2 hover:text-cyan-400 transition-colors">
               <Phone size={18} />
-              +1 (619) 738-6448
+              +1 (917) 695-2242
             </a>
           </div>
 
